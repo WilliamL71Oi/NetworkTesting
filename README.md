@@ -20,3 +20,7 @@
 ![超快速网络连通性测试GUI](https://github.com/WilliamL71Oi/NetworkTesting/blob/main/%E6%89%B9%E9%87%8F%E7%BD%91%E5%9D%80%E8%BF%9E%E9%80%9A%E6%80%A7%E6%B5%8B%E8%AF%95.png)  
 
 ![超快速网络连通性测试GUI](https://github.com/WilliamL71Oi/NetworkTesting/blob/main/%E6%89%B9%E9%87%8FIP%20PING%E6%B5%8B%E8%AF%95.png)  
+
+
+# 声明：本软件免费使用，仅供技术交流，不得用于违反法律法规的行为，一切后果与本人无关。  
+# 如喜欢本软件，请点个star，多多支持！
